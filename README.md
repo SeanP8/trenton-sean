@@ -1,7 +1,7 @@
-# trenton-sean
+## In class we are working on sequalize,
 
-# Hello Sean
+## I was thinking we could make the friend finder app function like the burger 2 assignment
 
-# Sean I created the dev branch
+## From burger 2
 
-# I figured we could work on building something that is like my homework assignment
+![1-Sequelized](/app/images/1-Sequelized.jpg)
